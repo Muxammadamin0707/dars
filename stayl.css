@@ -1,0 +1,37 @@
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+    gap: 20px;
+}
+
+.plus{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+.minus {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px 1px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+
+h1 {
+    color: blue;
+}
+
+button {
+    width: 70px;
+}
+
+body {
+    align-items: center;
+}
